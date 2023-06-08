@@ -143,3 +143,21 @@ body {
 	font-weight:bold;
 	padding:13px 32px;
 }
+
+.btn-cadastro {
+    box-shadow: 0px 0px 10px 0px #dc143c;
+  align-items: center;
+  background-color:#dc143c;
+  border: none;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 20px;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:10px;
+  font-weight:bold;
+  padding:13px 22px;
+  text-decoration:none;
+  text-align:center;
+  margin-bottom: 20px;
+}
